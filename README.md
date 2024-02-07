@@ -1,4 +1,11 @@
-# 목차
+
+
+
+# 마이파티스 예제
+공통 필요 라이브러리
+ ![image](https://github.com/auspicious0/mabatis_example/assets/108572025/2ec97496-43a2-4a94-b7ac-6f55b051d5ca)
+
+ # 목차
 
 - [마이파티스 예제](#마이파티스-예제)
   - [공통 필요 라이브러리](#공통-필요-라이브러리)
@@ -6,11 +13,7 @@
   - [예제 2 slf4j로 로그파일 생성](#예제-2-slf4j로-로그파일-생성)
   - [예제 3 tinylog를 통해 log file 생성](#예제-3-tinylog를-통해-log-file-생성)
   - [예제 4 slf4j를 통해 log4j 로그파일 생성](#예제-4-slf4j를-통해-log4j-로그파일-생성)
-
-
-# 마이파티스 예제
-공통 필요 라이브러리
- ![image](https://github.com/auspicious0/mabatis_example/assets/108572025/2ec97496-43a2-4a94-b7ac-6f55b051d5ca)
+    
 
 ## 예제 1. common logging, log4j로 로그 파일 생성
 
