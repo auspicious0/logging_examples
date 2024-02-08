@@ -1,8 +1,10 @@
 
 
 
-# 마이파티스 예제
+# log 관련 예제
 공통 필요 라이브러리
+
+
  ![image](https://github.com/auspicious0/mabatis_example/assets/108572025/2ec97496-43a2-4a94-b7ac-6f55b051d5ca)
 
  # 목차
