@@ -9,11 +9,11 @@
 
  # 목차
 
-  ## [공통 필요 라이브러리](#공통-필요-라이브러리)
-  ## [예제 1. common logging, log4j로 로그 파일 생성](#예제-1-common-logging-log4j로-로그-파일-생성)
-  ## [예제 2 slf4j로 로그파일 생성](#예제-2-slf4j로-로그파일-생성)
-  ## [예제 3 tinylog를 통해 log file 생성](#예제-3-tinylog를-통해-log-file-생성)
-  ## [예제 4 slf4j를 통해 log4j 로그파일 생성](#예제-4-slf4j를-통해-log4j-로그파일-생성)
+  - [공통 필요 라이브러리](#공통-필요-라이브러리)
+  - [예제 1. common logging, log4j로 로그 파일 생성](#예제-1-common-logging-log4j로-로그-파일-생성)
+  - [예제 2 slf4j로 로그파일 생성](#예제-2-slf4j로-로그파일-생성)
+  - [예제 3 tinylog를 통해 log file 생성](#예제-3-tinylog를-통해-log-file-생성)
+  - [예제 4 slf4j를 통해 log4j 로그파일 생성](#예제-4-slf4j를-통해-log4j-로그파일-생성)
     
 
 ## 예제 1. common logging, log4j로 로그 파일 생성
